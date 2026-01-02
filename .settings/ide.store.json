@@ -1,0 +1,7 @@
+{
+  "board": "NUCLEO-L452RE",
+  "device": "STM32L452RET3",
+  "core": "Cortex-M4",
+  "order": 0,
+  "toolchain": "GCC"
+}
